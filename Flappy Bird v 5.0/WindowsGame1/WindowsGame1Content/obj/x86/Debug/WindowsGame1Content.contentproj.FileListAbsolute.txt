@@ -1,0 +1,7 @@
+C:\Users\André\Desktop\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\WindowsGame1 - primeir parte\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\WindowsGame1 -segunda\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\WindowsGame1 -terceira\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\WindowsGame1 -terceira - Cópia\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\Flappy Bird v 5.0\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Yuno Gasai\Desktop\Flappy Bird v 5.0\Flappy Bird v 5.0\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache

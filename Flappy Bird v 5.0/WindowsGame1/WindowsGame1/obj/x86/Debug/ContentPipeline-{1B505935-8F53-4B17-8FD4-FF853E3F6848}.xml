@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Yuno Gasai\Desktop\Flappy Bird v 5.0\Flappy Bird v 5.0\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2014-05-13T14:04:39.0226509+01:00</Time>
+    </Item>
+    <Item>
+      <Source>pipedown.png</Source>
+      <Name>pipedown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Yuno Gasai\Desktop\Flappy Bird v 5.0\Flappy Bird v 5.0\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\pipedown.xnb</Output>
+      <Time>2014-06-02T20:32:12.7855925+01:00</Time>
+    </Item>
+    <Item>
+      <Source>pipeup.png</Source>
+      <Name>pipeup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Yuno Gasai\Desktop\Flappy Bird v 5.0\Flappy Bird v 5.0\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\pipeup.xnb</Output>
+      <Time>2014-06-02T20:32:41.5292457+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Yuno Gasai\Desktop\Flappy Bird v 5.0\Flappy Bird v 5.0\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2014-05-07T15:11:09.6919918+01:00</Time>
+    </Item>
+    <Item>
+      <Source>da.png</Source>
+      <Name>da</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Yuno Gasai\Desktop\Flappy Bird v 5.0\Flappy Bird v 5.0\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\da.xnb</Output>
+      <Time>2014-05-21T15:03:18.0758512+01:00</Time>
+    </Item>
+    <Item>
+      <Source>over.wav</Source>
+      <Name>over</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Yuno Gasai\Desktop\Flappy Bird v 5.0\Flappy Bird v 5.0\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\over.xnb</Output>
+      <Time>2014-05-07T14:40:32.7427434+01:00</Time>
+    </Item>
+    <Item>
+      <Source>space.wav</Source>
+      <Name>space</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Yuno Gasai\Desktop\Flappy Bird v 5.0\Flappy Bird v 5.0\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\space.xnb</Output>
+      <Time>2014-05-07T14:40:32.7427434+01:00</Time>
+    </Item>
+    <Item>
+      <Source>success.wav</Source>
+      <Name>success</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Yuno Gasai\Desktop\Flappy Bird v 5.0\Flappy Bird v 5.0\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\success.xnb</Output>
+      <Time>2014-05-07T14:40:32.7427434+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1B505935-8F53-4B17-8FD4-FF853E3F6848}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Yuno Gasai\Desktop\Flappy Bird v 5.0\Flappy Bird v 5.0\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Yuno Gasai\Desktop\Flappy Bird v 5.0\Flappy Bird v 5.0\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Yuno Gasai\Desktop\Flappy Bird v 5.0\Flappy Bird v 5.0\WindowsGame1\WindowsGame1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Yuno Gasai\Desktop\Flappy Bird v 5.0\Flappy Bird v 5.0\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-05-08T22:20:38.257815+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
